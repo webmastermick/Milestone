@@ -1,0 +1,36 @@
+/*** PAGE FORMATING ***/
+body {
+  background-color: 00b3b3;
+  font-family: Montserrat, Galada;
+  font-color:#ffffcc;
+}
+
+nav {
+  word spacing: 4em;
+  float: right;
+}
+
+header {
+
+}
+
+.intro {
+
+}
+
+.skillcrush {
+  table-layout: auto;
+  border: none;
+}
+
+.work {
+
+}
+
+.contact {
+
+}
+
+footer {
+
+}
